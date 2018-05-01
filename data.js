@@ -181,6 +181,7 @@ var q = [
 
 // Tips
 var tips = [
+	"I'm a boss and Sam's a little nerd",
 	'Try to have quick and concise answers.',
 	'Try to answer in 2 to 3 sentences.',
 	'Answer like you would in a conversation, this is not a presentation.',
