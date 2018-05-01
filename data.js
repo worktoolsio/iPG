@@ -78,7 +78,7 @@ var q = [
 	'Who would be your next hire?',
 	
 	'How do you know people want this?',
-	'What do you know about this space/product others don&#39;t know?'
+	'What do you know about this space/product others don&#39;t know?',
 	
 	"What are you going to do?",
 "What does your product do",
